@@ -9,7 +9,7 @@ outfit "Fireball Circle"
 	"required crew" 1
 	"mana" -300
 	weapon
-		sprite "projectile/flamethrower"
+		sprite "projectile/fireball"
 		sound "blaster"
 		"hit effect" "large explosion"
 		"inaccuracy" 0
@@ -17,7 +17,7 @@ outfit "Fireball Circle"
 		"velocity" 5
 		"lifetime" 360
 		"reload" 360
-		"firing heat" 120
+		"firing heat" 960
 		"shield damage" 1200
 		"hull damage" 1200
 		"heat damage" 1200
@@ -51,7 +51,6 @@ outfit "Magic Missile Circle"
 		"homing" 4
 		"tracking" 1
 		"reload" 60
-		"firing heat" 120
 		"shield damage" 50
 		"hull damage" 50
 	description "School: Evocation"
