@@ -29,7 +29,7 @@ outfit "Fireball Circle"
 outfit "Magic Missile Circle"
 	category "Turrets"
 	cost 75000
-	thumbnail "outfit/fireball circle"
+	thumbnail "outfit/magic missile circle"
 	"mass" 2
 	"outfit space" -2
 	"weapon capacity" -2
@@ -48,6 +48,8 @@ outfit "Magic Missile Circle"
 		"acceleration" 4
 		"drag" .2
 		"turn" 5
+		"homing" 4
+		"tracking" 1
 		"reload" 60
 		"firing heat" 120
 		"shield damage" 50
