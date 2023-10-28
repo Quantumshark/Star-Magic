@@ -3,7 +3,7 @@ mission "Magic Menu"
 	job
 	repeat
 	to offer
-		has "outfit: Caster's Amulet"
+		"flagship attribute: spellcasting focus" > 0
 	on accept
 		conversation
 			``

@@ -63,4 +63,5 @@ outfit "Caster's Amulet"
 	cost 25000
 	thumbnail "outfit/caster amulet"
 	"mana" 5
-	description ""
+	"spellcasting focus" 1
+	description `The most popular type of spellcasting focus, to the extent that for many the very concept of a "spellcasting focus" is synonymous with "Caster's Amulet".`
