@@ -1,7 +1,7 @@
 system "Elven Gate"
 	pos -470 37
 	government "Star Elf"
-	arrival 500
+	arrival 115
 	habitable 500
 	object 
 		sprite "planet/Elven gate station core"
@@ -64,3 +64,9 @@ system "Elven Gate"
 		distance 255
 		period 20
 		offset 300
+
+system "Aelaros' Doorstep"
+	pos -11470 -4963
+	government "Star Elf"
+	arrival 500
+	habitable 500
