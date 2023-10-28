@@ -3,16 +3,64 @@ system "Elven Gate"
 	government "Star Elf"
 	arrival 500
 	habitable 500
+	object 
+		sprite "planet/Elven gate station core"
+		period 20
 	object "Station AE2"
-		sprite "planet/Elven gate station"
-		period 10
-		object
-			sprite
-			distance 500
-			period 300
-		object
-			sprite
-			distance 500
-			period 300
-			offset 180
-			
+		sprite "planet/Elven gate station ring segment"
+		distance 115
+		period 20
+	object "Station AE2"
+		sprite "planet/Elven gate station ring segment"
+		distance 115
+		period 20
+		offset 60
+	object "Station AE2"
+		sprite "planet/Elven gate station ring segment"
+		distance 115
+		period 20
+		offset 120
+	object "Station AE2"
+		sprite "planet/Elven gate station ring segment"
+		distance 115
+		period 20
+		offset 180
+	object "Station AE2"
+		sprite "planet/Elven gate station ring segment"
+		distance 115
+		period 20
+		offset 240
+	object "Station AE2"
+		sprite "planet/Elven gate station ring segment"
+		distance 115
+		period 20
+		offset 300
+	object
+		sprite "planet/Elven gate station mirror"
+		distance 255
+		period 20
+	object
+		sprite "planet/Elven gate station mirror"
+		distance 255
+		period 20
+		offset 60
+	object
+		sprite "planet/Elven gate station mirror"
+		distance 255
+		period 20
+		offset 120
+	object
+		sprite "planet/Elven gate station mirror"
+		distance 255
+		period 20
+		offset 180
+	object
+		sprite "planet/Elven gate station mirror"
+		distance 255
+		period 20
+		offset 240
+	object
+		sprite "planet/Elven gate station mirror"
+		distance 255
+		period 20
+		offset 300
