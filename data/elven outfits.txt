@@ -1,0 +1,64 @@
+outfit "Fireball Circle"
+	category "Turrets"
+	cost 500000
+	thumbnail "outfit/fireball circle"
+	"mass" 6
+	"outfit space" -6
+	"weapon capacity" -6
+	"turret mounts" -1
+	"required crew" 1
+	"mana" -300
+	weapon
+		sprite "projectile/fireball"
+		sound "blaster"
+		"hit effect" "large explosion"
+		"inaccuracy" 0
+		"turret turn" 4
+		"velocity" 5
+		"lifetime" 360
+		"reload" 360
+		"firing heat" 120
+		"shield damage" 1200
+		"hull damage" 1200
+		"heat damage" 1200
+		"blast radius" 40
+	description "School: Evocation"
+	description "A properly assembled magic circle for repeated castings of Fireball."
+	description "Fireball is a simple but effective damaging spell, dealing heavy damage and some heat damage in a large area."
+
+outfit "Magic Missile Circle"
+	category "Turrets"
+	cost 75000
+	thumbnail "outfit/fireball circle"
+	"mass" 2
+	"outfit space" -2
+	"weapon capacity" -2
+	"turret mounts" -1
+	"required crew" 1
+	"mana" -50
+	weapon
+		sprite "projectile/mmissile"
+		sound "blaster"
+		"hit effect" "magic missile hit"
+		"inaccuracy" 0
+		"turret turn" 4
+		"velocity" 2
+		"velocity override" 20
+		"lifetime" 360
+		"acceleration" 4
+		"drag" .2
+		"turn" 5
+		"reload" 60
+		"firing heat" 120
+		"shield damage" 50
+		"hull damage" 50
+	description "School: Evocation"
+	description "A properly assembled magic circle for repeated castings of Magic Missile."
+	description "Magic Missiles do not deal particularly large amounts of damage, but they are almost impossible to evade or escape."
+
+outfit "Caster's Amulet"
+	category "Special"
+	cost 25000
+	thumbnail "outfit/caster amulet"
+	"mana" 5
+	description ""

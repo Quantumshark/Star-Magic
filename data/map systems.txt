@@ -1,3 +1,18 @@
 system "Elven Gate"
 	pos -470 37
 	government "Star Elf"
+	arrival 500
+	habitable 500
+	object "Station AE2"
+		sprite "planet/Elven gate station"
+		period 10
+		object
+			sprite
+			distance 500
+			period 300
+		object
+			sprite
+			distance 500
+			period 300
+			offset 180
+			

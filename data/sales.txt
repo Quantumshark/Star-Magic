@@ -1,0 +1,2 @@
+outfitter "Elven Basics"
+	"Magic Missile Circle"

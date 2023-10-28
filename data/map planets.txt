@@ -1,0 +1,6 @@
+planet "Station AE2"
+	attributes station
+	lanscape land/
+	description "This vast station stabilises the two gateways in this system. It is also home to a sizeable population, and to a military outpost."
+	spaceport ""
+	outfitter "Elven Basics"
