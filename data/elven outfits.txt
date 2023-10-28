@@ -9,7 +9,7 @@ outfit "Fireball Circle"
 	"required crew" 1
 	"mana" -300
 	weapon
-		sprite "projectile/fireball"
+		sprite "projectile/flamethrower"
 		sound "blaster"
 		"hit effect" "large explosion"
 		"inaccuracy" 0

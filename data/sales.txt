@@ -1,2 +1,6 @@
 outfitter "Elven Basics"
 	"Magic Missile Circle"
+
+outfitter "Elven Advanced"
+	"Magic Missile Circle"
+	"Fireball Circle"
