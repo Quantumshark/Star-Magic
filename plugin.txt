@@ -1,0 +1,2 @@
+name "Star Magic"
+about `Sufficiently advanced technology is indistinguishable from magic. This is not sufficiently advanced technology. This is real magic.`

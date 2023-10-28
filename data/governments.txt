@@ -1,0 +1,6 @@
+government "Star Elf"
+	swizzle 5
+	color .4 0 .6
+	language "Elven"
+	"player reputation" 1
+	"attitude toward"
