@@ -1,0 +1,8 @@
+outfit "Shield Ward"
+	"shield protection" .5
+
+outfit "Major Shield Ward"
+	"shield protection" 1
+
+outfit "Mage Armour"
+	"hull" 5000

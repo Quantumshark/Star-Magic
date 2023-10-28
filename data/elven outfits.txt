@@ -65,4 +65,4 @@ outfit "Caster's Amulet"
 	"mana" 5
 	"spellcasting focus" 1
 	description `The most popular type of spellcasting focus, to the extent that for many the very concept of a "spellcasting focus" is synonymous with "Caster's Amulet".`
-	description `To repeatedly cast spells at a scale that poses a threat to a ship, specialised magic circles are required, which are far more complex than this simple trinket.`
+	description `To repeatedly cast spells at a scale that poses a threat to a ship, all but the strongest spellcasters need specialised magic circles, which are far more complex than this simple trinket.`
