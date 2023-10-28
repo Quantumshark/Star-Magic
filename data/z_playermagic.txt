@@ -1,0 +1,11 @@
+mission "Magic Menu"
+	name "Open the Magic Menu"
+	job
+	repeat
+	to offer
+		has "outfit: Caster's Amulet"
+	on accept
+		conversation
+			``
+	on enter
+		fail
