@@ -68,5 +68,66 @@ system "Elven Gate"
 system "Aelaros' Doorstep"
 	pos -11470 -4963
 	government "Star Elf"
-	arrival 500
+	arrival 115
 	habitable 500
+	object 
+		sprite "planet/Elven gate station core"
+		period 20
+	object "Station AE1"
+		sprite "planet/Elven gate station ring segment"
+		distance 115
+		period 20
+	object "Station AE1"
+		sprite "planet/Elven gate station ring segment"
+		distance 115
+		period 20
+		offset 60
+	object "Station AE1"
+		sprite "planet/Elven gate station ring segment"
+		distance 115
+		period 20
+		offset 120
+	object "Station AE1"
+		sprite "planet/Elven gate station ring segment"
+		distance 115
+		period 20
+		offset 180
+	object "Station AE1"
+		sprite "planet/Elven gate station ring segment"
+		distance 115
+		period 20
+		offset 240
+	object "Station AE1"
+		sprite "planet/Elven gate station ring segment"
+		distance 115
+		period 20
+		offset 300
+	object
+		sprite "planet/Elven gate station mirror"
+		distance 255
+		period 20
+	object
+		sprite "planet/Elven gate station mirror"
+		distance 255
+		period 20
+		offset 60
+	object
+		sprite "planet/Elven gate station mirror"
+		distance 255
+		period 20
+		offset 120
+	object
+		sprite "planet/Elven gate station mirror"
+		distance 255
+		period 20
+		offset 180
+	object
+		sprite "planet/Elven gate station mirror"
+		distance 255
+		period 20
+		offset 240
+	object
+		sprite "planet/Elven gate station mirror"
+		distance 255
+		period 20
+		offset 300

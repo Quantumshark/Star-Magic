@@ -57,6 +57,19 @@ outfit "Magic Missile Circle"
 	description "A properly assembled magic circle for repeated castings of Magic Missile."
 	description "Magic Missiles do not deal particularly large amounts of damage, but they are almost impossible to evade or escape."
 
+outfit "Dimension Door Drive"
+	category "Systems"
+	cost 15000000
+	thumbnail "outfit/jump drive"
+	"mass" 50
+	"outfit space" -50
+	"mana" -1000
+	"jump speed" .1
+	"jump fuel" 50
+	"jump drive" 1
+	description "The Star Elves value this more than any other item they produce.."
+
+
 outfit "Caster's Amulet"
 	category "Special"
 	cost 25000

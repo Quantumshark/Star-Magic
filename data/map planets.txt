@@ -1,6 +1,13 @@
+planet "Station AE1"
+	attributes station
+	lanscape land/
+	description "This vast station was used to open the gateway in this system, and now holds it open with the help of Station AE2 at the other end."
+	spaceport ""
+	outfitter "Elven Advanced"
+
 planet "Station AE2"
 	attributes station
 	lanscape land/
-	description "This vast station stabilises the two gateways in this system. It is also home to a sizeable population, and to a military outpost."
+	description "This vast station stabilises the gateway in this system. It is also home to a sizeable population, and to a military outpost."
 	spaceport ""
 	outfitter "Elven Basics"
